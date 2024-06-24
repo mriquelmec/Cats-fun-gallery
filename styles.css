@@ -1,0 +1,57 @@
+.container {
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.box {
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box1 {
+    background-color: rgb(24, 23, 23);
+
+}
+
+.box2 {
+    background-color: rgb(53, 52, 51);
+
+}
+
+.box3 {
+    background-color: rgb(77, 78, 78);
+
+}
+
+.box4 {
+    background-color: rgba(19, 148, 7, 0.815);
+    width: 1000px;
+    height: 40px;
+
+}
+
+
+.image {
+    width: 180px;
+    height: 180px;
+}
+
+
+h3 {
+    color: aliceblue;
+    font-family: monospace;
+    margin-left: 430px;
+    font-size: 15px;
+
+
+}
